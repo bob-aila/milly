@@ -16,7 +16,7 @@ align-contents: right;
   display: flex;
   width: 100%;
   margin-bottom: 15px;
-  padding-left:30%;
+  padding-left:20%;
   padding-right:20%;
 }
 
