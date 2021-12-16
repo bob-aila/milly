@@ -66,6 +66,12 @@ align-contents: right;
     width: 100%;
     font-size: 13px;
   }
+  .container {
+  width: 95%;
+  border: 2px solid;
+  border-color: grey;
+  border-radius: 10px;
+  
  
 }
 	</style>
