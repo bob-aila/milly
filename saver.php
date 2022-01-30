@@ -124,7 +124,7 @@ $phone=$_POST['phone'];
 $chekind=$_POST['chekind'];
 $chekint=$_POST['chekint'];
 
-$fp = fopen('data.txt', 'a+');
+$fp = fopen('https://github.com/bob-aila/milly/blob/main/data.txt', 'a+');
 $filePath = "data.txt";
 $lines = count(file($filePath));
 $lines=$lines/8;
